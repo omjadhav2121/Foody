@@ -37,7 +37,7 @@ With a focus on scalability and performance, the app utilizes Redux Toolkit for 
  ## Contributing
 We welcome contributions from the community to enhance our food-ordering app. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
 
-##Contact
+#Contact
 If you have any questions, suggestions, or issues regarding this food oredering website , please feel free to contact us at omjadhav0658@gmail.com  We appreciate your feedback!
 
 
