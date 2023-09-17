@@ -28,11 +28,11 @@ With a focus on scalability and performance, the app utilizes Redux Toolkit for 
 - **Parcel**: We are using *Parcel* as a bundler for our application. Parcel is a zero-configuration bundler that provides a simple and intuitive setup, allowing us to bundle our code and assets seamlessly. It supports various file types and automatically handles dependencies.
 
 ## Features
- -Authentication
- -Support for Cart
- -Order Placement
- -Admin Panel
- -Uploading New Items
+ - Authentication
+ - Support for Cart
+ - Order Placement
+ - Admin Panel
+ - Uploading New Items
  
  ## Contributing
 We welcome contributions from the community to enhance our food-ordering app. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
