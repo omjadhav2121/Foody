@@ -39,7 +39,11 @@ We welcome contributions from the community to enhance our food-ordering app. Pl
 
 #Contact
 If you have any questions, suggestions, or issues regarding this food oredering website , please feel free to contact us at omjadhav0658@gmail.com  We appreciate your feedback!
-![User Interface]https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png
+
+##Images
+![User Interface] https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png
+<img src="https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png" alt="User Interface">
+
 
 
 
