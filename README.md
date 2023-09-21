@@ -41,7 +41,8 @@ With a focus on scalability and performance, the app utilizes Redux Toolkit for 
  
 ## Images(User Interface)
  <img src="https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png" alt="User Interface">
-<img src=" https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(93).png">
+ <img src="https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(93).png" alt="User Interface">
+
  
  ## Contact
   If you have any questions, suggestions, or issues regarding this food oredering website , please feel free to contact us at omjadhav0658@gmail.com  We appreciate 
