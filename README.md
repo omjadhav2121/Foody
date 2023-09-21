@@ -33,16 +33,19 @@ With a focus on scalability and performance, the app utilizes Redux Toolkit for 
  - Order Placement
  - Admin Panel
  - Uploading New Items
+## Contributing
+ We welcome contributions from the community to enhance our food-ordering app. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to 
+ contribute.
+
+
  
- ## Contributing
-We welcome contributions from the community to enhance our food-ordering app. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
-
-#Contact
-If you have any questions, suggestions, or issues regarding this food oredering website , please feel free to contact us at omjadhav0658@gmail.com  We appreciate your feedback!
-
-##Images
-![User Interface] https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png
-<img src="https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png" alt="User Interface">
+## Images
+ ![User Interface] https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png
+ <img src="https://github.com/omjadhav2121/Foody/blob/main/Screenshot%20(92).png" alt="User Interface">
+ 
+ ## Contact
+  If you have any questions, suggestions, or issues regarding this food oredering website , please feel free to contact us at omjadhav0658@gmail.com  We appreciate 
+  your feedback!
 
 
 
